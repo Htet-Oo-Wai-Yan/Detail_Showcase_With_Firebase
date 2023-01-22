@@ -58,7 +58,7 @@ export default {
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
-        filter: blur(8px);
+        filter: blur(12px);
 
         position: relative;
 
